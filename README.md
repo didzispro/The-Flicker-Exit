@@ -101,6 +101,6 @@ All code, art, music, sound effects, and other game elements were made by me, Di
 
 ## 👀 Links:
 
-[![Itch.io: Link](https://didzisprocoder.itch.io/the-flicker-exit-door-horror)]
+[Play on Itch.io](https://didzisprocoder.itch.io/the-flicker-exit-door-horror)
 
-[![Game Jolt: Link](https://gamejolt.com/games/the-flicker-exit-door-horror/1092578)]
+[Play on Game Jolt](https://gamejolt.com/games/the-flicker-exit-door-horror/1092578)
