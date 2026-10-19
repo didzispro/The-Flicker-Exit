@@ -1,6 +1,7 @@
 # 🚪 The-Flicker-Exit
 
 [![Watch the Gameplay Video](The flicker exit thumbnail youtube.png)](https://youtu.be/RbVAtIzVvLE)
+<img width="1280" height="720" alt="The flicker exit thumbnail youtube" src="https://github.com/user-attachments/assets/e2a4cf8f-3a99-4fbf-bfad-cca9639a8a70" />
 
 ## 💻 Development:
 
@@ -23,6 +24,7 @@ Explore the house, find the items you need, and find a way to escape.
 - Music.
 
 - Jumpscares.
+
 
 - Characters.
 
