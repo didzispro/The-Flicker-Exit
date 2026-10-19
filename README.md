@@ -1,4 +1,3 @@
-
 # 🚪 The-Flicker-Exit
 
 [![Watch the Gameplay Video](https://youtu.be/RbVAtIzVvLE)](https://youtu.be/RbVAtIzVvLE)
@@ -44,7 +43,7 @@ Explore the house, find the items you need, and find a way to escape.
 
 - Better Visual Looks.
 
-<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 46 06 32" src="https://github.com/user-attachments/assets/0363e4ab-1626-437d-a7c8-2b1c5278064b" />
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 49 18 14" src="https://github.com/user-attachments/assets/7c56b2f3-4f25-428e-ad76-5980a818a8ee" />
 
 ## 🌟 Polish:
 
@@ -68,6 +67,7 @@ Explore the house, find the items you need, and find a way to escape.
 
 About 4–10 minutes.
 
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 46 25 21" src="https://github.com/user-attachments/assets/c045bfa0-830a-4cde-b691-9d6b8f96cd77" />
 
 ## ✅ Updates:
 
@@ -91,11 +91,13 @@ The first playable version of the game is out!
 
 - Random Item Spawns.
 
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 46 06 32" src="https://github.com/user-attachments/assets/ba59cb0d-427c-4ebe-a942-10511506e043" />
 
 ## 📝 Credits:
 
 All code, art, music, sound effects, and other game elements were made by me, Didzispro Games.
 
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 48 09 33" src="https://github.com/user-attachments/assets/41066a5e-d43b-4612-aeff-c1a2bb64abed" />
 
 ## 👀 Links:
 
