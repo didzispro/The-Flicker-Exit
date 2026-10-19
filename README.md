@@ -8,13 +8,11 @@
 
 The game was in development, but Alpha 0.1.0 is now OUT!
 
-
 <img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 45 31 61" src="https://github.com/user-attachments/assets/1ebdc065-ae53-4702-ab62-639ffd917319" />
 
 ## 🎮 The Goal:
 
 Escape the HOUSE.
-
 
 Explore the house, find the items you need, and find a way to escape.
 
@@ -29,7 +27,6 @@ Explore the house, find the items you need, and find a way to escape.
 - Music.
 
 - Jumpscares.
-
 
 - Characters.
 
@@ -64,7 +61,8 @@ Explore the house, find the items you need, and find a way to escape.
 - Lighting.
 
 - Visual Looks.
-
+  
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 46 06 32" src="https://github.com/user-attachments/assets/c62a278b-b468-4fb0-8cab-26a2fedb76ca" />
 
 ## 🕐 Playtime:
 
