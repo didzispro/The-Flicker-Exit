@@ -15,27 +15,16 @@ Explore the house, find the items you need, and find a way to escape.
 ## ⭐ Features:
 
 -AI that patrols and chases.
-
 -Item collection.
-
 -Music.
-
 -Jumpscares.
-
 -Characters.
-
 -Interactive doors.
-
 -AI Teleportation.
-
 -Turn the Flashlight On/Off.
-
 -Flickering Effects.
-
 -Difficultys System.
-
 -Random Item Spawns.
-
 -Better Visual Looks.
 
 
