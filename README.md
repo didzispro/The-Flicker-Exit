@@ -1,7 +1,7 @@
 # 🚪 The-Flicker-Exit
 
-[![Watch the Gameplay Video](<img width="1280" height="720" alt="The flicker exit thumbnail youtube" src="https://github.com/user-attachments/assets/e2a4cf8f-3a99-4fbf-bfad-cca9639a8a70" />)](https://youtu.be/RbVAtIzVvLE)
-
+[![Watch the Gameplay Video](https://youtu.be/RbVAtIzVvLE)](https://youtu.be/RbVAtIzVvLE)
+<img width="1280" height="720" alt="The flicker exit thumbnail youtube" src="https://github.com/user-attachments/assets/e2a4cf8f-3a99-4fbf-bfad-cca9639a8a70" />
 
 ## 💻 Development:
 
