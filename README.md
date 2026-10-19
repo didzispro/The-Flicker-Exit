@@ -1,6 +1,6 @@
 # 🚪 The-Flicker-Exit
 
-[![Watch the Gameplay Video](https://youtube.com)](https://youtube.com
+[![Watch the Gameplay Video](https://youtube.com)](https://youtube.com)
 
 ## 💻 Development:
 
