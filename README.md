@@ -14,35 +14,45 @@ Explore the house, find the items you need, and find a way to escape.
 
 ## ⭐ Features:
 
--AI that patrols and chases.
--Item collection.
--Music.
--Jumpscares.
--Characters.
--Interactive doors.
--AI Teleportation.
--Turn the Flashlight On/Off.
--Flickering Effects.
--Difficultys System.
--Random Item Spawns.
--Better Visual Looks.
+- AI that patrols and chases.
 
+- Item collection.
+
+- Music.
+
+- Jumpscares.
+
+- Characters.
+
+- Interactive doors.
+
+- AI Teleportation.
+
+- Turn the Flashlight On/Off.
+
+- Flickering Effects.
+
+- Difficultys System.
+
+- Random Item Spawns.
+
+- Better Visual Looks.
 
 ## 🌟 Polish:
 
--Animations.
+- Animations.
 
--UI.
+- UI.
 
--Sound effects.
+- Sound effects.
 
--Music.
+- Music.
 
--Smooth fading effects.
+- Smooth fading effects.
 
--Lighting.
+- Lighting.
 
--Visual Looks.
+- Visual Looks.
 
 
 ## 🕐 Playtime:
@@ -58,19 +68,19 @@ The first playable version of the game is out!
 
 ### ⭐ Alpha 0.2.0 — Added Features!
 
--AI Teleportation.
+- AI Teleportation.
 
--Turn the Flashlight On/Off.
+- Turn the Flashlight On/Off.
 
--Flickering Effects.
+- Flickering Effects.
 
 ### 🎮 Alpha 0.3.0  — Increase Replayability!
 
--Difficultys System.
+- Difficultys System.
 
--Better Visual Looks.
+- Better Visual Looks.
 
--Random Item Spawns.
+- Random Item Spawns.
 
 
 ## 📝 Credits:
