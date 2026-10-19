@@ -63,11 +63,11 @@ About 4–10 minutes.
 
 # ✅ Updates:
 
-## 🎯 Alpha 0.1.0 — Released!
+### 🎯 Alpha 0.1.0 — Released!
 
 The first playable version of the game is out!
 
-## ⭐ Alpha 0.2.0 — Added Features!
+### ⭐ Alpha 0.2.0 — Added Features!
 
 AI Teleportation.
 
@@ -75,7 +75,7 @@ Turn the Flashlight On/Off.
 
 Flickering Effects.
 
-## 🎮 Alpha 0.3.0  — Increase Replayability!
+### 🎮 Alpha 0.3.0  — Increase Replayability!
 
 Difficultys System.
 
