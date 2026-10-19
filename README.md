@@ -1,3 +1,4 @@
+
 # 🚪 The-Flicker-Exit
 
 [![Watch the Gameplay Video](https://youtu.be/RbVAtIzVvLE)](https://youtu.be/RbVAtIzVvLE)
@@ -8,12 +9,16 @@
 The game was in development, but Alpha 0.1.0 is now OUT!
 
 
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 45 31 61" src="https://github.com/user-attachments/assets/1ebdc065-ae53-4702-ab62-639ffd917319" />
+
 ## 🎮 The Goal:
 
 Escape the HOUSE.
 
+
 Explore the house, find the items you need, and find a way to escape.
 
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 45 49 74" src="https://github.com/user-attachments/assets/2d591005-4641-4ac3-9ab7-509d2966cffb" />
 
 ## ⭐ Features:
 
@@ -41,6 +46,8 @@ Explore the house, find the items you need, and find a way to escape.
 - Random Item Spawns.
 
 - Better Visual Looks.
+
+<img width="1920" height="1080" alt="The Flicker Exit Windows Screenshot 2026 09 19 - 23 46 06 32" src="https://github.com/user-attachments/assets/0363e4ab-1626-437d-a7c8-2b1c5278064b" />
 
 ## 🌟 Polish:
 
