@@ -1,5 +1,7 @@
 # 🚪 The-Flicker-Exit
 
+[![Watch the Gameplay Video](https://youtube.com)](https://youtube.com
+
 ## 💻 Development:
 
 The game was in development, but Alpha 0.1.0 is now OUT!
