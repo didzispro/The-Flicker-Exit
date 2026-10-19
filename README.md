@@ -1,18 +1,18 @@
 # 🚪 The-Flicker-Exit
 
-# 💻 Development:
+## 💻 Development:
 
 The game was in development, but Alpha 0.1.0 is now OUT!
 
 
-# 🎮 The Goal:
+## 🎮 The Goal:
 
 Escape the HOUSE.
 
 Explore the house, find the items you need, and find a way to escape.
 
 
-# ⭐ Features:
+## ⭐ Features:
 
 AI that patrols and chases.
 
@@ -84,11 +84,11 @@ Better Visual Looks.
 Random Item Spawns.
 
 
-# 📝 Credits:
+## 📝 Credits:
 
 All code, art, music, sound effects, and other game elements were made by me, Didzispro Games.
 
 
-# 👀 Links:
+## 👀 Links:
 
 Itch: The Flicker Exit by Didzispro Games
