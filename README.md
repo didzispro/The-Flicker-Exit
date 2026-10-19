@@ -39,7 +39,7 @@ Random Item Spawns.
 Better Visual Looks.
 
 
-# 🌟 Polish:
+## 🌟 Polish:
 
 Animations.
 
@@ -56,12 +56,12 @@ Lighting.
 Visual Looks.
 
 
-# 🕐 Playtime:
+## 🕐 Playtime:
 
 About 4–10 minutes.
 
 
-# ✅ Updates:
+## ✅ Updates:
 
 ### 🎯 Alpha 0.1.0 — Released!
 
